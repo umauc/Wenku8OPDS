@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Wenku8CLI.iml" filepath="$PROJECT_DIR$/.idea/Wenku8CLI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Wenku8OPDS.iml" filepath="$PROJECT_DIR$/.idea/Wenku8OPDS.iml" />
     </modules>
   </component>
 </project>

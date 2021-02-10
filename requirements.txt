@@ -6,3 +6,5 @@ lxml
 django-taggit==0.22.1
 regex
 requests
+beautifulsoup4
+tenacity

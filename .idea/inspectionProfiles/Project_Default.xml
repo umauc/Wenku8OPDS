@@ -28,6 +28,7 @@
       <option name="ignoredNames">
         <list>
           <option value="license" />
+          <option value="id" />
         </list>
       </option>
     </inspection_tool>

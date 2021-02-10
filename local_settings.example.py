@@ -3,3 +3,5 @@
 
 DEBUG = True
 TIME_ZONE = 'America/Los_Angeles'
+WENKU8_USERNAME = ''
+WENKU8_PASSWD = ''
